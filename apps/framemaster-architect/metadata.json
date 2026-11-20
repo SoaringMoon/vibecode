@@ -1,0 +1,5 @@
+{
+  "name": "FrameMaster Architect",
+  "description": "A precise architectural framing calculator and visualizer for residential timber frame construction. Generates 3D assembly views and detailed cut lists based on building codes.",
+  "requestFramePermissions": []
+}
