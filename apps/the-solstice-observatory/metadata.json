@@ -1,0 +1,6 @@
+{
+  "name": "The Solstice Observatory",
+  "description": "A high-resolution handcrafted SVG vector masterpiece depicting an astronomical eclipse over a monolithic desert observatory, with high-definition PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
