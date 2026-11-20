@@ -1,5 +1,5 @@
 # The Solstice Observatory
-An app displaying an attempt at creating an art masterpiece.
+Displays and exports an attempt at creating an art masterpiece in SVG without the use of image models.
 
 # Prompt
 
